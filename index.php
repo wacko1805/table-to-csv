@@ -21,6 +21,15 @@
                 Place any link to any website with any html tables in it, and (hopefully) it should display all the tables on the page where you can download the table in CSV format. View the source code on <a href="https://github.com/wacko1805/table-to-csv">Github</a>
             </p>
         </div>
+                    <table style="display:none">
+  <tr>
+    <th>You</th>
+    <th>Found</th>
+    <th>The</th>
+    <th>hidden</th>
+    <th>table</th>
+  </tr>
+</table>
         </main>
     </body>
 </html>
